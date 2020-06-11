@@ -1,0 +1,10 @@
+pyvmomi
+atexit
+requests
+pandas
+xlrd
+setuptools
+requests>=2.21.0
+six>=1.11.0
+git+https://github.com/vmware/vsphere-automation-sdk-python.git
+ 
